@@ -1,5 +1,6 @@
 -- starlight 💫
 -- 0.2.7
+print("this doesn't work, use 0.2.5 version instead")
 
 
 
